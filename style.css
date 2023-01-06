@@ -133,6 +133,10 @@ video {
     width: 20%;
 }
 
+.ticket:hover {
+    cursor: pointer;
+}
+
 button {
     background-color: #514988;
     border-radius: 10px;
