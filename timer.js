@@ -3,7 +3,7 @@ const hora = document.getElementById("hora");
 const minuto = document.getElementById("min");
 const segundo = document.getElementById("seg");
 
-const release = "10 dec 2023";
+const release = "1 dec 2023";
 
 function countdown() {
 
